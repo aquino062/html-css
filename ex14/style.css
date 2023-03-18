@@ -1,0 +1,36 @@
+ @charset "UTF-8"
+
+
+ *{
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ }
+
+ p {
+     text-align: justify;
+ }
+
+ body {
+     background-image: linear-gradient(to right, #0B9ED9, #05DBF2);
+ }
+
+ main {
+     background-color: white;
+     width: 600px;
+     /* largura do quadrado q fica o texto*/
+     padding: 10%;
+     /* da um espaço no texto*/
+     margin: auto;
+     border-radius: 10px;
+     /*deixa a borda redonda*/
+     box-shadow: 5px 5px 15px #075f81ab;
+ }
+
+ h1 {
+     text-shadow: 1px 1px 2px #8f0739bb;
+     text-align: center;
+     color: #D90D58;
+ }
+
+ h2 {
+     color: #F2138E;
+ }
